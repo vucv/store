@@ -24,7 +24,7 @@ production:
   <<: *default
   adapter: postgresql
   encoding: utf8
-  database: store_production
+  database: d7049jkndmdpqq
   pool: 5
-  username:
-  password:
+  username: prazzkwvlrnztw
+  password: 6jzK2xhLa7NRyeV8-qduPTfWbY
